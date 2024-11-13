@@ -31,13 +31,15 @@ const HomePage = () => {
       name: "Dr. T. Chaithanya Sravanti",
       specialty: "Obstetrics and Gynecology (OBG)",
       regNumber: "60674",
-      image: "https://api.dicebear.com/6.x/avataaars/svg?seed=DrSravanti"
+      image: "https://api.dicebear.com/6.x/avataaars/svg?seed=DrPraveen"
+
     },
     {
       name: "Dr.Praveen Sirasani",
       specialty: "General Surgery (GS)",
       regNumber: "61964",
-      image: "https://api.dicebear.com/6.x/avataaars/svg?seed=DrPraveen"
+      image: "https://api.dicebear.com/6.x/avataaars/svg?seed=DrSravanti"
+
     }
   ];
 
